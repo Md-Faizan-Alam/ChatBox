@@ -1,0 +1,38 @@
+.w-min{
+    width: min-content;
+}
+.w-max{
+    width: max-content;
+}
+.w-fit{
+    width: fit-content;
+}
+.outline-0{
+    outline: none;
+}
+.py-6{
+    padding-block: 4rem;
+}
+.message{
+    max-width: 75vw;
+}
+.sender{
+    font-size: 12px;
+}
+.login-block{
+    max-width: 300px;
+}
+.bg-chat{
+    background-color: cornflowerblue;
+}
+.bg-sent{
+    background-color: rgb(78, 212, 73);
+    box-shadow: 0px 0px 3px white;
+}
+.bg-recieved{
+    background-color: rgb(212, 147, 73);
+    box-shadow: 0px 0px 3px white;
+}
+.fs-lg{
+    font-size: 7vh;
+}
